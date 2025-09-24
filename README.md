@@ -1,3 +1,29 @@
+oddsmarket
+A oddsmarket built on BNB Smart Chain (BSC) and compatible with other EVM networks.
+
+Technology Stack
+Blockchain: BNB Smart Chain + EVM-compatible chains
+Smart Contracts: Solidity ^0.x.x
+Frontend: [React / Vue / Next.js] + [ethers.js / web3.js / wagmi]
+Development: [Hardhat / Foundry / Truffle], OpenZeppelin libraries
+Supported Networks
+BNB Smart Chain Mainnet (Chain ID: 56)
+BNB Smart Chain Testnet (Chain ID: 97)
+Ethereum Mainnet (Chain ID: 1)
+(add more if supported)
+Contract Addresses
+Network	Core Contract	Token Contract	(Optional: Vault / Router / Governance)
+BNB Mainnet	0x....	0x....	0x....
+BNB Testnet	0x....	0x....	0x....
+Ethereum	0x....	0x....	0x....
+Features
+[Feature 1: e.g. Low-cost swaps on BNB Chain]
+[Feature 2: e.g. Multi-chain token support]
+[Feature 3: e.g. Decentralized governance with native token]
+[Feature 4: e.g. Security with timelocks and pause control]
+[Feature 5: e.g. Gas-efficient design for BNB Smart Chain]
+
+
 Revolutionary Dual-Contract
 Prediction Market
 Enterprise-grade decentralized binary prediction platform implementing LMSR algorithm with revolutionary dual-contract architecture for optimized performance and security.
@@ -11,51 +37,3 @@ Risk-Reward Sharing Mechanism: In LMSR contracts, liquidity providers (LPs) are 
 Zero Sum Optimized
 Zero-Sum Game Mechanism with LP Fund Protection: Zero contracts implement true zero-sum games with complete LP fund isolation and protection, bearing no trading risks. Users trade in independent pools while LPs only provide liquidity support and earn fixed returns. Specialized for sports events, financial markets, and high-frequency trading scenarios.
 
-Contract Comparison
-Deep dive into the technical differences and use cases of our dual-contract architecture.
-
-LMSR Contract Features
-Risk-Reward Mechanism
-• LPs provide liquidity and share in market outcomes
-• Potential profits when markets exceed 1:1 ratio
-• Exposure to losses during unfavorable outcomes
-• Traditional LMSR algorithm implementation
-Best Use Cases
-• Political prediction markets
-• Social event predictions
-• Entertainment industry outcomes
-• Subjective prediction scenarios
-Zero-Sum Contract Features
-LP Protection Mechanism
-• Complete fund isolation for LP protection
-• Zero trading risk exposure for liquidity providers
-• Fixed returns for LP participation
-• Independent user trading pools
-Best Use Cases
-• Sports betting and competitions
-• Financial market predictions
-• High-frequency trading scenarios
-• Objective outcome markets
-Contract Explorer
-Explore our comprehensive smart contract ecosystem with dedicated QueryHub contracts for specialized operations.
-
-
-Platform Features
-LMSR Algorithm
-Battle-tested Logarithmic Market Scoring Rule with Log-Sum-Exp numerical stability for accurate price discovery.
-
-Three-Tier Caching
-Memory, Redis, and Database caching architecture delivering 95% response time improvement.
-
-Enterprise Security
-Comprehensive security audit, formal verification, and battle-tested smart contract architecture.
-
-Microservices Architecture
-Scalable backend with intelligent contract routing and unified API for seamless user experience.
-
-Real-time Updates
-WebSocket integration for live price feeds, position tracking, and instant market updates.
-
-Cross-Chain Ready
-Architecture designed for multi-chain expansion beyond BSC mainnet deployment.# contract
-Revolutionary Dual-Contract Prediction Market
