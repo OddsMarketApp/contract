@@ -39,69 +39,7 @@ Best Use Cases
 Contract Explorer
 Explore our comprehensive smart contract ecosystem with dedicated QueryHub contracts for specialized operations.
 
-Odds Contracts
-ODDS Token Contract
-Coming Soon - Platform Token
-Our native platform token for governance, rewards, and enhanced trading features. Token economics and deployment details will be announced soon.
-Contract Pending
-Main Contracts
-LMSR Production Contract
-0xe897E0CAdA19f812E112D1Bb211B5853775c261f
-View Contract Code
-Zero Sum Optimized Contract
-0xA466A00Df680DbE56b1103E44dD43C94cf33150E
-View Contract Code
-Adapter Contracts
-LMSR Adapter
-0x61e0c548b972F1b2f03c6a7DF3490dCb685d04aE
-View Contract Code
-Zero Sum Adapter
-0xc7634F03a52D779DAE1137dFa7ce5124174D7518
-View Contract Code
-LMSR Production QueryHubs
-Admin QueryHub
-0x1CDD21cFE5a7f4A9Cd0612E6e4171226Eb3cCb6C
-View Contract Code
-Analytics QueryHub
-0x9713D76D93Fe8F512cC2A03FF4f7d79a2C051ec9
-View Contract Code
-FastAccess QueryHub
-0xF0eAbc5Aa58B3a4D2B64D0f326fD65F3cCB98EE9
-View Contract Code
-Liquidity QueryHub
-0xfC7cB36D1EA68dCd3472A6C31b3aCC7668D8118c
-View Contract Code
-Position QueryHub
-0x06118c0e9fCafdDcEd0dF45c576285D566269D6b
-View Contract Code
-Trading QueryHub
-0xcb411dc3948eeD23955fC8Ba16f26DB08c47c5F1
-View Contract Code
-UserCentric QueryHub
-0xB3eBEd6C24742402Ef3E7c946EDecCaEc02A98DF
-View Contract Code
-Zero Sum Optimized QueryHubs
-Admin QueryHub
-0xDC8cc7C760B18dB30435bcB5583347b2512D1900
-View Contract Code
-Analytics QueryHub
-0x08Ff55d6AF218efdDe8DE6d76A81140362d109d5
-View Contract Code
-FastAccess QueryHub
-0x6A7e99a7aBd568560372c90513AdEa219C2c7875
-View Contract Code
-Liquidity QueryHub
-0x12E5329abEC636eF28305Ff509051C5D72BcBe24
-View Contract Code
-Position QueryHub
-0x6F1d7b888a8382E6Fc75CaA892f3C0922452CA79
-View Contract Code
-Trading QueryHub
-0xB37E2F7a1E9989B2b3b37c07AE3e1ca7b8C6309e
-View Contract Code
-UserCentric QueryHub
-0x1B8379EfFb13d8C6d72A9ed15b51e8F2246fE266
-View Contract Code
+
 Platform Features
 LMSR Algorithm
 Battle-tested Logarithmic Market Scoring Rule with Log-Sum-Exp numerical stability for accurate price discovery.
